@@ -79,14 +79,14 @@ code, run it, and modify it to deepen your understanding.
 
 | Day           | Topic Description                                                                 | 
 |---------------|-----------------------------------------------------------------------------------|
-| Practice      | [Assisted + Self Problems](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Practice)          |
-| Day 1         | [Introduction to Java](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-1)                   |
-| Day 2         | [Variables, Data Types, and Operators](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-2)    |
-| Day 3         | [Control Flow (Conditional Statements and Loops)](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-3) |
-| Day 4         | [Arrays](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-4)                                  |
-| Day 5         | [Strings](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-5)                                 |
-| Day 6 - Part 1| [Functions (Methods)](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-6-Buildin-Functions)   |
-| Day 6 - Part 2| [Strings Continued](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-6-Strings)               |
+| Day 1         | [Programming elements](https://github.com/Srinithi24/week1-core-programming/tree/day1-programming-elements)          |
+| Day 2         | [Control Flow](https://github.com/Srinithi24/week1-core-programming/tree/day2-Control-Flow)                   |
+| Day 3         | [Arrays](https://github.com/Srinithi24/week1-core-programming/tree/day3-Arrays)    |
+| Day 4         | [Methods](https://github.com/Srinithi24/week1-core-programming/tree/day4-Methods) |
+| Day 5         | [Strings](https://github.com/Srinithi24/week1-core-programming/tree/day5-Strings)                                  |
+| Day 6         | [String Practice](https://github.com/Srinithi24/week1-core-programming/tree/day6-String-Practice)                                 |
+| Day 7 - Part 1| [Common BuiltIn](https://github.com/Srinithi24/week1-core-programming/tree/day7-Common-BuiltIn)   |
+| Day 7 - Part 2| [BuiltIn Problems](https://github.com/Srinithi24/week1-core-programming/tree/day8-BuiltIn-problems)               |
 
 
 ## ⏭️ Next Steps
